@@ -130,8 +130,8 @@ efault AWS account/region
 
 
 ============================================================================
-
-I add the "donaation-shopping-cart" and use test  with  Pytest and all test passe.
+ 
+I add the "donation-shopping-cart" and use test  with  Pytest and all test passe.
 The reason formade  this  new module is about the mission of the  this assigment  is  the people can  made donations.   ut "orange" and "apple"  because  are examples.  but  in theconcept  is   the   users  can  donate .
 
 
